@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "jarName": "otoroshi.jar"
+    "jarName": "daikoku-1.0.0-rc6.jar"
   }
 }
